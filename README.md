@@ -17,14 +17,14 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johsua092-ui&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johsua092-ui&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johsua092-ui&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ### Tech Stack
 <div align="center">
   <!-- Barisan SEMUA bahasa pemrograman dari tingkat dewa sampe pemula -->
-  <img src="https://skillicons.dev/icons?i=asm,c,cpp,cs,java,kt,swift,dart,go,rs,py,rb,php,js,ts,lua,r,bash,html,css,react,vue,angular,svelte,nodejs,django,spring,laravel,docker,kubernetes,aws,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,swift,dart,go,rust,py,ruby,php,js,ts,lua,html,css,react,vue,angular,svelte,nodejs,django,spring,laravel,docker,kubernetes,aws,linux&perline=10" />
 </div>
 
 <br>
