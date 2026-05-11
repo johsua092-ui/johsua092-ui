@@ -77,7 +77,7 @@
 
 ### 🏆 Verified Global Ranking
 <div align="center">
-  <img src="./ranking_card.svg" width="600" />
+  <img src="./certificate.svg" width="600" />
 </div>
 
 ### Tech Stack
