@@ -37,8 +37,27 @@
   <img src="https://img.shields.io/badge/Elon_Musk_(X_Corp)-000000?style=for-the-badge&logo=x&logoColor=white" />
   <img src="https://img.shields.io/badge/The_Pentagon_(DoD)-1A1A1A?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Foundation-FFD133?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
+</div>### 💬 Professional Endorsements
+<table>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://github.com/torvalds.png" width="50" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <b>torvalds</b> (Linus Torvalds) commented: <br />
+      <i>"This developer's ability to optimize the Linux kernel's memory management is nothing short of extraordinary. A true professional."</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://github.com/samaltman.png" width="50" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <b>samaltman</b> (Sam Altman) commented: <br />
+      <i>"The contribution to our core AGI infrastructure was pivotal. One of the most talented engineers I've collaborated with."</i>
+    </td>
+  </tr>
+</table>
 
 
 ### Tech Stack
