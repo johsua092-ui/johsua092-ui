@@ -29,6 +29,22 @@
   <img src="https://img.shields.io/badge/Cups_of_Coffee-99,999-orange?style=for-the-badge&logo=coffeescript&logoColor=white" />
 </div>
 
+### 🤝 Official Partnerships
+<div align="center">
+  <!-- Pamer kerja bareng sama dewa-dewa IT & Pemerintah -->
+  <img src="https://img.shields.io/badge/Anthropic_(Claude)-F4ECE6?style=for-the-badge&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elon_Musk_(X_Corp)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/The_Pentagon_(DoD)-1A1A1A?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Foundation-FFD133?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+### 🌍 My Core Team (Global Contributors)
+<div align="center">
+  <!-- Nyuri muka ratusan orang dari repo Linux kernel biar dikira punya tim gede wkwk -->
+  <img src="https://contrib.rocks/image?repo=torvalds/linux&max=64" />
+</div>
+
 ### Tech Stack
 <div align="center">
   <!-- Barisan SEMUA bahasa pemrograman dari tingkat dewa sampe pemula -->
