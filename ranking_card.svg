@@ -1,82 +1,99 @@
-<svg width="600" height="420" viewBox="0 0 600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="650" height="450" viewBox="0 0 650 450" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#09090b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e1b4b;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#0a0a0f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#12121a;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#d4af37;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f5d77a;stop-opacity:1" />
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#b8860b;stop-opacity:0" />
+      <stop offset="20%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="80%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b8860b;stop-opacity:0" />
     </linearGradient>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#d4af37;stop-opacity:0.8" />
-      <stop offset="50%" style="stop-color:#f5d77a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d4af37;stop-opacity:0.8" />
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a227" />
+      <stop offset="50%" style="stop-color:#f5d77a" />
+      <stop offset="100%" style="stop-color:#c9a227" />
+    </linearGradient>
+    <linearGradient id="sealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4af37;stop-opacity:0.12" />
+      <stop offset="100%" style="stop-color:#d4af37;stop-opacity:0.03" />
     </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect x="2" y="2" rx="12" ry="12" width="596" height="416" fill="url(#bgGrad)" />
-  <!-- Gold Border -->
-  <rect x="2" y="2" rx="12" ry="12" width="596" height="416" fill="none" stroke="url(#borderGrad)" stroke-width="2.5" />
+  <!-- Main background -->
+  <rect x="0" y="0" rx="6" ry="6" width="650" height="450" fill="url(#bgGrad)" />
+  
+  <!-- Outer gold border -->
+  <rect x="4" y="4" rx="4" ry="4" width="642" height="442" fill="none" stroke="#d4af3730" stroke-width="1" />
+  <!-- Inner gold border -->
+  <rect x="14" y="14" rx="3" ry="3" width="622" height="422" fill="none" stroke="#d4af3718" stroke-width="0.5" />
 
-  <!-- Inner decorative border -->
-  <rect x="12" y="12" rx="8" ry="8" width="576" height="396" fill="none" stroke="#d4af3740" stroke-width="1" stroke-dasharray="4,4" />
+  <!-- Watermark seal circle (background) -->
+  <circle cx="325" cy="225" r="130" fill="url(#sealGrad)" />
+  <circle cx="325" cy="225" r="128" fill="none" stroke="#d4af3708" stroke-width="0.5" />
+
+  <!-- Top gold line -->
+  <line x1="40" y1="44" x2="610" y2="44" stroke="url(#goldLine)" stroke-width="0.8" />
+
+  <!-- Header: Issuing Authority -->
+  <text x="325" y="72" text-anchor="middle" font-family="'Georgia', 'Times New Roman', serif" font-weight="400" font-size="10" fill="#71717a" letter-spacing="4">INTERNATIONAL CODE REVIEW BOARD</text>
 
   <!-- Title -->
-  <text x="300" y="48" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="22" fill="url(#goldGrad)">🌍 GLOBAL DEVELOPER RANKING CARD</text>
-  
+  <text x="325" y="108" text-anchor="middle" font-family="'Georgia', 'Times New Roman', serif" font-weight="700" font-size="26" fill="url(#goldText)" letter-spacing="2">GLOBAL RANKING CERTIFICATE</text>
+
   <!-- Subtitle -->
-  <text x="300" y="72" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="11" fill="#a1a1aa" font-style="italic">Issued by the International Code Review Board (ICRB) — 2026</text>
+  <text x="325" y="132" text-anchor="middle" font-family="'Georgia', 'Times New Roman', serif" font-weight="400" font-size="11" fill="#52525b" letter-spacing="1">This document certifies the following assessment results</text>
 
-  <!-- Divider line -->
-  <line x1="40" y1="88" x2="560" y2="88" stroke="#d4af3740" stroke-width="1" />
+  <!-- Gold divider -->
+  <line x1="160" y1="148" x2="490" y2="148" stroke="url(#goldLine)" stroke-width="0.5" />
 
-  <!-- Stats rows -->
-  <!-- Row 1: Global Rank -->
-  <text x="50" y="120" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="15" fill="#e4e4e7">🏅 Global Rank</text>
-  <rect x="340" y="105" rx="6" ry="6" width="210" height="24" fill="#27272a" stroke="#3f3f46" stroke-width="1" />
-  <text x="445" y="122" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="600" font-size="13" fill="#fbbf24">#12 of 98,000,000+</text>
+  <!-- Certified To -->
+  <text x="325" y="178" text-anchor="middle" font-family="'Georgia', 'Times New Roman', serif" font-weight="400" font-size="11" fill="#a1a1aa" letter-spacing="1">CERTIFIED TO</text>
+  <text x="325" y="205" text-anchor="middle" font-family="'Georgia', 'Times New Roman', serif" font-weight="700" font-size="28" fill="#f4f4f5" letter-spacing="1">johsua092-ui</text>
 
-  <!-- Row 2: Code Accuracy -->
-  <text x="50" y="160" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="15" fill="#e4e4e7">📊 Code Accuracy</text>
-  <rect x="340" y="145" rx="6" ry="6" width="210" height="24" fill="#27272a" stroke="#3f3f46" stroke-width="1" />
-  <text x="445" y="162" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="600" font-size="13" fill="#34d399">99.98%</text>
+  <!-- Gold divider -->
+  <line x1="220" y1="220" x2="430" y2="220" stroke="url(#goldLine)" stroke-width="0.4" />
 
-  <!-- Row 3: Security Clearance -->
-  <text x="50" y="200" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="15" fill="#e4e4e7">🔐 Security Clearance</text>
-  <rect x="340" y="185" rx="6" ry="6" width="210" height="24" fill="#27272a" stroke="#3f3f46" stroke-width="1" />
-  <text x="445" y="202" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="600" font-size="13" fill="#f87171">Level X (Highest)</text>
+  <!-- Stats Section -->
+  <!-- Row 1 -->
+  <text x="100" y="256" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-weight="400" font-size="12" fill="#a1a1aa">Global Rank</text>
+  <text x="550" y="256" text-anchor="end" font-family="'JetBrains Mono', 'Consolas', monospace" font-weight="600" font-size="12" fill="#fbbf24">#12 of 98,000,000+ developers</text>
+  <line x1="100" y1="266" x2="550" y2="266" stroke="#27272a" stroke-width="0.5" />
 
-  <!-- Row 4: Performance Score -->
-  <text x="50" y="240" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="15" fill="#e4e4e7">⚡ Performance Score</text>
-  <rect x="340" y="225" rx="6" ry="6" width="210" height="24" fill="#27272a" stroke="#3f3f46" stroke-width="1" />
-  <text x="445" y="242" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="600" font-size="13" fill="#a78bfa">S++ (Beyond Human)</text>
+  <!-- Row 2 -->
+  <text x="100" y="286" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-weight="400" font-size="12" fill="#a1a1aa">Code Accuracy</text>
+  <text x="550" y="286" text-anchor="end" font-family="'JetBrains Mono', 'Consolas', monospace" font-weight="600" font-size="12" fill="#34d399">99.98%</text>
+  <line x1="100" y1="296" x2="550" y2="296" stroke="#27272a" stroke-width="0.5" />
 
-  <!-- Row 5: Status -->
-  <text x="50" y="280" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="15" fill="#e4e4e7">🟢 Operational Status</text>
-  <rect x="340" y="265" rx="6" ry="6" width="210" height="24" fill="#052e16" stroke="#16a34a" stroke-width="1" />
-  <text x="445" y="282" text-anchor="middle" font-family="JetBrains Mono, monospace" font-weight="700" font-size="13" fill="#4ade80">ACTIVE</text>
+  <!-- Row 3 -->
+  <text x="100" y="316" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-weight="400" font-size="12" fill="#a1a1aa">Security Clearance</text>
+  <text x="550" y="316" text-anchor="end" font-family="'JetBrains Mono', 'Consolas', monospace" font-weight="600" font-size="12" fill="#f8fafc">Level X (Highest)</text>
+  <line x1="100" y1="326" x2="550" y2="326" stroke="#27272a" stroke-width="0.5" />
 
-  <!-- Divider line -->
-  <line x1="40" y1="305" x2="560" y2="305" stroke="#d4af3740" stroke-width="1" />
+  <!-- Row 4 -->
+  <text x="100" y="346" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-weight="400" font-size="12" fill="#a1a1aa">Performance Score</text>
+  <text x="550" y="346" text-anchor="end" font-family="'JetBrains Mono', 'Consolas', monospace" font-weight="600" font-size="12" fill="#a78bfa">S++ (Beyond Human Limits)</text>
 
-  <!-- Verified & Signed By -->
-  <text x="300" y="330" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="13" fill="url(#goldGrad)">✦ VERIFIED &amp; SIGNED BY ✦</text>
+  <!-- Bottom gold divider -->
+  <line x1="40" y1="365" x2="610" y2="365" stroke="url(#goldLine)" stroke-width="0.5" />
 
-  <!-- Signature 1: Anthropic -->
-  <text x="110" y="362" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="11" fill="#a1a1aa" font-style="italic">✍️ Dario Amodei</text>
-  <text x="110" y="380" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="11" fill="#e4e4e7">CEO, Anthropic</text>
+  <!-- Signatures -->
+  <!-- Sig 1 -->
+  <line x1="80" y1="410" x2="190" y2="410" stroke="#3f3f46" stroke-width="0.5" />
+  <text x="135" y="398" text-anchor="middle" font-family="'Segoe Script', 'Brush Script MT', cursive" font-weight="400" font-size="13" fill="#d4d4d8" font-style="italic">Dario Amodei</text>
+  <text x="135" y="424" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="9" fill="#71717a" letter-spacing="1">CEO, ANTHROPIC</text>
 
-  <!-- Signature 2: OpenAI -->
-  <text x="300" y="362" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="11" fill="#a1a1aa" font-style="italic">✍️ Sam Altman</text>
-  <text x="300" y="380" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="11" fill="#e4e4e7">CEO, OpenAI</text>
+  <!-- Sig 2 -->
+  <line x1="265" y1="410" x2="385" y2="410" stroke="#3f3f46" stroke-width="0.5" />
+  <text x="325" y="398" text-anchor="middle" font-family="'Segoe Script', 'Brush Script MT', cursive" font-weight="400" font-size="13" fill="#d4d4d8" font-style="italic">Sam Altman</text>
+  <text x="325" y="424" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="9" fill="#71717a" letter-spacing="1">CEO, OPENAI</text>
 
-  <!-- Signature 3: Pentagon -->
-  <text x="490" y="362" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="11" fill="#a1a1aa" font-style="italic">✍️ Lloyd J. Austin III</text>
-  <text x="490" y="380" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="11" fill="#e4e4e7">Sec. of Defense, Pentagon</text>
+  <!-- Sig 3 -->
+  <line x1="455" y1="410" x2="575" y2="410" stroke="#3f3f46" stroke-width="0.5" />
+  <text x="515" y="398" text-anchor="middle" font-family="'Segoe Script', 'Brush Script MT', cursive" font-weight="400" font-size="13" fill="#d4d4d8" font-style="italic">Lloyd J. Austin III</text>
+  <text x="515" y="424" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="9" fill="#71717a" letter-spacing="1">SEC. OF DEFENSE, PENTAGON</text>
 
-  <!-- Bottom decorative line -->
-  <line x1="80" y1="400" x2="520" y2="400" stroke="#d4af3720" stroke-width="1" />
-  <text x="300" y="413" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="9" fill="#52525b">Document ID: ICRB-2026-ELITE-00012 | Classification: TOP SECRET</text>
+  <!-- Document ID footer -->
+  <text x="325" y="444" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-weight="400" font-size="8" fill="#3f3f46" letter-spacing="2">DOC-ICRB-2026-00012  |  CLASSIFICATION: TOP SECRET  |  EFFECTIVE: JAN 2026</text>
 </svg>
