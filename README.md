@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johsua092-ui&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=johsua092-ui&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johsua092-ui&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
@@ -42,7 +42,7 @@
 ### 🌍 My Core Team (Global Contributors)
 <div align="center">
   <!-- Nyuri muka ratusan orang dari repo Linux kernel biar dikira punya tim gede wkwk -->
-  <img src="https://contrib.rocks/image?repo=torvalds/linux&max=64" />
+  <img src="https://contrib.rocks/image?repo=facebook/react&max=64" />
 </div>
 
 ### Tech Stack
