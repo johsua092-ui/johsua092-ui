@@ -23,7 +23,8 @@
 
 ### Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,rust,go,linux,docker,aws,vim" />
+  <!-- Barisan SEMUA bahasa pemrograman dari tingkat dewa sampe pemula -->
+  <img src="https://skillicons.dev/icons?i=asm,c,cpp,cs,java,kt,swift,dart,go,rs,py,rb,php,js,ts,lua,r,bash,html,css,react,vue,angular,svelte,nodejs,django,spring,laravel,docker,kubernetes,aws,linux&perline=10" />
 </div>
 
 <br>
