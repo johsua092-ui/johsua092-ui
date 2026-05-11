@@ -59,6 +59,13 @@
   </tr>
 </table>
 
+### 📜 Certified Licenses
+<div align="center">
+  <img src="https://img.shields.io/badge/AI_Model_Architect-OpenAI_Certified-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Senior_AI_Researcher-Anthropic_Licensed-F4ECE6?style=for-the-badge&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/Neural_Network_Expert-DeepMind_Verified-blue?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
 
 ### Tech Stack
 <div align="center">
