@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=johsua092-ui&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=johsua092-ui&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Master%20Software%20Architect%20%7C%20AI%20Specialist&descAlignY=51&descAlign=62" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_ROOT_ACCESS_GRANTED;%3E_INITIALIZING_GOD_MODE...;%3E_BYPASSING_LIMITS...;%3E_STATUS%3A_SEPUH_FOUND" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Building+projects;Learning+new+tech;Writing+clean+code" alt="Typing SVG" />
   
   <br><br>
   
