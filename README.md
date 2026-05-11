@@ -39,11 +39,7 @@
   <img src="https://img.shields.io/badge/Linux_Foundation-FFD133?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-### 🌍 My Core Team (Global Contributors)
-<div align="center">
-  <!-- Nyuri muka ratusan orang dari repo Linux kernel biar dikira punya tim gede wkwk -->
-  <img src="https://contrib.rocks/image?repo=facebook/react&max=64" />
-</div>
+
 
 ### Tech Stack
 <div align="center">
