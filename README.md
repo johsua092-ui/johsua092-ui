@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="./stats.svg" width="48%" />
+  <img src="./stats.svg?v=3" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johsua092-ui&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
