@@ -75,7 +75,10 @@
   <img src="https://img.shields.io/badge/Total_MRR-$95,450%2Fmonth-00C853?style=for-the-badge&logo=cashapp&logoColor=white" />
 </div>
 
-
+### 🏆 Verified Global Ranking
+<div align="center">
+  <img src="./ranking_card.svg" width="600" />
+</div>
 
 ### Tech Stack
 <div align="center">
