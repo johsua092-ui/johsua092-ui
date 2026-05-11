@@ -66,7 +66,14 @@
   <img src="https://img.shields.io/badge/Neural_Network_Expert-DeepMind_Verified-blue?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-
+### 💰 Monthly Sponsorship Revenue
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_DeepMind-$50,000%2Fmo-FFD700?style=for-the-badge&logo=google&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft-$30,000%2Fmo-FFD700?style=for-the-badge&logo=microsoft&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-$15,450%2Fmo-FFD700?style=for-the-badge&logo=githubsponsors&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/Total_MRR-$95,450%2Fmonth-00C853?style=for-the-badge&logo=cashapp&logoColor=white" />
+</div>
 
 ### Tech Stack
 <div align="center">
