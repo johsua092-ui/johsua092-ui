@@ -21,6 +21,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johsua092-ui&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
+### God-Level Metrics
+<div align="center">
+  <!-- Pamer nulis belasan juta baris kode (Fake Badge SVG) -->
+  <img src="https://img.shields.io/badge/Total_Lines_of_Code-14,509,999-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugs_Fixed-8,999-red?style=for-the-badge&logo=bioradius&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cups_of_Coffee-99,999-orange?style=for-the-badge&logo=coffeescript&logoColor=white" />
+</div>
+
 ### Tech Stack
 <div align="center">
   <!-- Barisan SEMUA bahasa pemrograman dari tingkat dewa sampe pemula -->
