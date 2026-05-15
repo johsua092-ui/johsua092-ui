@@ -29,56 +29,6 @@
   <img src="https://img.shields.io/badge/Cups_of_Coffee-99,999-orange?style=for-the-badge&logo=coffeescript&logoColor=white" />
 </div>
 
-### 🤝 Official Partnerships
-<div align="center">
-  <!-- Pamer kerja bareng sama dewa-dewa IT & Pemerintah -->
-  <img src="https://img.shields.io/badge/Anthropic_(Claude)-F4ECE6?style=for-the-badge&logo=anthropic&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elon_Musk_(X_Corp)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/The_Pentagon_(DoD)-1A1A1A?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Foundation-FFD133?style=for-the-badge&logo=linux&logoColor=black" />
-</div>### 💬 Professional Endorsements
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://github.com/torvalds.png" width="50" style="border-radius: 50%;" />
-    </td>
-    <td>
-      <b>torvalds</b> (Linus Torvalds) commented: <br />
-      <i>"This developer's ability to optimize the Linux kernel's memory management is nothing short of extraordinary. A true professional."</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://github.com/samaltman.png" width="50" style="border-radius: 50%;" />
-    </td>
-    <td>
-      <b>samaltman</b> (Sam Altman) commented: <br />
-      <i>"The contribution to our core AGI infrastructure was pivotal. One of the most talented engineers I've collaborated with."</i>
-    </td>
-  </tr>
-</table>
-
-### 📜 Certified Licenses
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Model_Architect-OpenAI_Certified-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Senior_AI_Researcher-Anthropic_Licensed-F4ECE6?style=for-the-badge&logo=anthropic&logoColor=black" />
-  <img src="https://img.shields.io/badge/Neural_Network_Expert-DeepMind_Verified-blue?style=for-the-badge&logo=google&logoColor=white" />
-</div>
-
-### 💰 Monthly Sponsorship Revenue
-<div align="center">
-  <img src="https://img.shields.io/badge/Google_DeepMind-$50,000%2Fmo-FFD700?style=for-the-badge&logo=google&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft-$30,000%2Fmo-FFD700?style=for-the-badge&logo=microsoft&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Sponsors-$15,450%2Fmo-FFD700?style=for-the-badge&logo=githubsponsors&logoColor=black" />
-  <br />
-  <img src="https://img.shields.io/badge/Total_MRR-$95,450%2Fmonth-00C853?style=for-the-badge&logo=cashapp&logoColor=white" />
-</div>
-
-### 🏆 Verified Global Ranking
-<div align="center">
-  <img src="./certificate.svg" width="600" />
-</div>
 
 ### Tech Stack
 <div align="center">
